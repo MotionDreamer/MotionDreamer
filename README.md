@@ -7,7 +7,7 @@
     
 </p>
 
-![teaser_image](assets/overview.png)
+![teaser_image](overview.png)
 If you find our code or paper helpful, please consider starring our repository and citing:
 ```
 @inproceedings{wang2025motiondreamer,
