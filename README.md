@@ -1,4 +1,4 @@
-# MotionDreamer: MotionDreamer: One-to-Many Motion Synthesis with Localized Generative Masked Transformer
+# MotionDreamer: One-to-Many Motion Synthesis with Localized Generative Masked Transformer
 
 
  <p align="center">
